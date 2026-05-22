@@ -1,0 +1,10 @@
+TP: 59
+FP: 2
+TN: 117
+FN: 0
+
+Accuracy: 98.88%
+Precision: 96.72%
+Recall: 100.00%
+Specificity: 98.32%
+F1 Score: 98.33%
